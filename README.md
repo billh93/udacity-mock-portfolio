@@ -1,0 +1,1 @@
+This is lesson 2 final project for Udacity Full Stack Web Developer Nanodegree Program.
